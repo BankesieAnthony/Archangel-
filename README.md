@@ -9,7 +9,7 @@ Cyber Security
 
 ## 🌐 Overview
 
-**ArchAngel** is a next-generation cybersecurity platform rooted in prophetic intelligence and spiritual pattern recognition. Designed to protect Africa's emerging digital economy, ArchAngel merges **blockchain**, **AI**, and **prophetic logic** to defend against cybercrime, financial sabotage, and early signs of global conflict.
+**ArchAngel** is a next-generation cybersecurity platform rooted in prophetic intelligence and spiritual pattern recognition. Designed to protect Africa's emerging digital economy, ArchAngel merges **[...]**
 
 > “Not just a system — a guardian of light in the digital age.”
 
