@@ -1,30 +1,55 @@
-# Archangel-
-Cyber Security 
-# 🛡️ ArchAngel: Cybersecurity & Prophetic Intelligence Platform
+# ArchAngel – Pi Network Ecosystem
 
-**By Bankesie Anthony (Commander of Light)**  
-**Built on Pi Network Mainnet | Powered by AI | Guided by Prophetic Insight**
-
----
-
-## 🌐 Overview
-
-**ArchAngel** is a next-generation cybersecurity platform rooted in prophetic intelligence and spiritual pattern recognition. Designed to protect Africa's emerging digital economy, ArchAngel merges **[...]**
-
-> “Not just a system — a guardian of light in the digital age.”
+**Creator / Owner:** Light Commander (Bankesie Anthony)  
+**Official Pi App Deployment:** [archangel6322.pinet.com](https://archangel6322.pinet.com)  
+**GitHub Repository:** This development & documentation hub
 
 ---
 
-## 🔑 Key Features
+## 🔹 Overview
 
-- **Trojan Pi™ Decoy System**  
-  Bait-and-trap mechanism using decoy wallets to track scammers and expose fraudulent Pi transactions.
+ArchAngel is the **official Pi Network ecosystem app**. It combines:
 
-- **Real-time Pattern Recognition Engine**  
-  AI-powered detection of warlike behavior, cyberattacks, and anomaly tracking across the network.
+- **Guardian Angel Protocol**: real-time pattern recognition and protection  
+- **Trojan Pi™ Decoy System**: detect and monitor fraudulent wallets  
+- **Regulatory Assurance Certificates**: generate verifiable certificates for entities  
+- **Predictive Intelligence Modules** (War Sign & Research Features)  
 
-- **Regulatory Assurance Certificate Generator**  
-  Certify trusted individuals, businesses, and institutions to create a trust layer across Pi Network.
+> ⚠️ Note: The Pi App Studio deployment at [archangel6322.pinet.com](https://archangel6322.pinet.com) is the **focal point** for all users.  
+> Experimental modules like **War Sign** are for research/development and are **not accessible in the Pi App**.
 
-- **War Watch™ Module**  
-  Prophetic intelligence tool fo
+---
+
+## 🔹 Focal Point: Pi App Studio
+
+The Pi App is the **live, functional environment** for users:
+
+- Access: [archangel6322.pinet.com](https://archangel6322.pinet.com)  
+- Features available to Pi Network pioneers:  
+  - Guardian Angel Protocol  
+  - Decoy wallet monitoring  
+  - Pattern recognition for account security  
+  - Secure interaction with Pi ecosystem  
+
+This ensures the Pi App is **the central hub**, while this GitHub repo contains supporting code, research, and documentation.
+
+---
+
+## 🔹 Repository Contents
+
+| Module | Purpose | Status |
+|--------|---------|--------|
+| Trojan Pi™ Decoy | Scammer detection using decoy wallets | Active |
+| Regulatory Assurance | Certificate generator for verified entities | Active |
+| Pattern Recognition | AI & blockchain analysis | Active |
+| War Sign | Predictive intelligence for security & conflict analysis | Experimental, NOT in Pi App |
+
+> This repo is the **development and research hub**, complementary to the Pi App deployment.
+
+---
+
+## 🔹 Installation & Contribution
+
+**Clone the repo:**  
+```bash
+git clone https://github.com/BankesieAnthony/ArchAngel-Pi-Ecosystem.git
